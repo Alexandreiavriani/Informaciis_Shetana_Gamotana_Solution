@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_Stream", "Informaciis_Shetana_Gamotana\File_Stream.csproj", "{CF3FDA9E-6BA9-4795-8687-780673546702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memory_Stream", "MemoryStream\Memory_Stream.csproj", "{AAAB8FE0-DF40-425C-BB75-F01636878560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3FDA9E-6BA9-4795-8687-780673546702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3FDA9E-6BA9-4795-8687-780673546702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3FDA9E-6BA9-4795-8687-780673546702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3FDA9E-6BA9-4795-8687-780673546702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAAB8FE0-DF40-425C-BB75-F01636878560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAB8FE0-DF40-425C-BB75-F01636878560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAB8FE0-DF40-425C-BB75-F01636878560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAB8FE0-DF40-425C-BB75-F01636878560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF133BAC-9C4E-47D4-A911-FDD9DD3091E9}
+	EndGlobalSection
+EndGlobal
